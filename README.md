@@ -6,13 +6,13 @@ Following john papa patterns
 - single quotes
 ... -->
 
-# install
+## install
 
 ```sh
 npm i eslint-config-angular-mn-component eslint
 ```
 
-# usage
+## usage
 
 In root of your project, create a file `.eslintrc` and define:
 
