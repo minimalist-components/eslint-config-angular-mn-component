@@ -1,5 +1,7 @@
 JS pattern for minimalist components in angular
 
+Following john papa patterns
+
 <!-- - no semicolons
 - single quotes
 ... -->
