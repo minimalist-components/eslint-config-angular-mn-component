@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-angular-mn-component",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "JS pattern for minimalist components in angular",
   "main": "index.js",
   "scripts": {
