@@ -1,0 +1,27 @@
+{
+  "name": "eslint-config-angular-mn-component",
+  "version": "1.0.0",
+  "description": "JS pattern for minimalist components in angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minimalist-components/eslint-config-angular-mn-component.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "mn",
+    "mn-components",
+    "minimalist",
+    "angular"
+  ],
+  "author": "Darlan Mendonça <darlanmendonca@gmail.com> (https://github.com/darlanmendonca)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/minimalist-components/eslint-config-angular-mn-component/issues"
+  },
+  "homepage": "https://github.com/minimalist-components/eslint-config-angular-mn-component#readme"
+}
